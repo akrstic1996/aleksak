@@ -1,2 +1,2 @@
 # aleksak
-Repository for public projects by Aleksa Krstic
+Repository for Aleksa Krstic's personal website
